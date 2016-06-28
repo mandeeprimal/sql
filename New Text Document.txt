@@ -1,0 +1,1 @@
+http://localhost:8000/phpmyadmin/db_structure.php?server=1&db=store&token=f1ff7b0a02afbab31f326b1e6beaeb72
